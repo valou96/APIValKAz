@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:spy="spyne.examples.flask">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <spy:get_data_by_siren>
+         <spy:siren>123456789</spy:siren>
+      </spy:get_data_by_siren>
+   </soapenv:Body>
+</soapenv:Envelope>
