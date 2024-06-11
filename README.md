@@ -60,3 +60,5 @@ Copier le code
       </spy:get_data_by_siren>
    </soapenv:Body>
 </soapenv:Envelope>
+![UmlSq](https://github.com/valou96/APIValKAz/assets/93383357/ed09ba21-baee-4a5a-8228-f7a704a321b7)
+
