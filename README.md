@@ -69,3 +69,4 @@ Application Flask : L'application Flask fournit trois points de terminaison pour
 Structure des Fichiers
 app.py : L'application Flask principale.
 index-egalite-fh-utf8.csv : Le fichier de données CSV (non inclus dans le dépôt).
+![UmlSq](https://github.com/valou96/APIValKAz/assets/93383357/2da4c5c2-79cc-4e60-8ff5-967722f9cb0c)
