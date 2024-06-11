@@ -2,13 +2,21 @@ API SOAP EgaPro
 Ce projet est une API SOAP construite à l'aide de Flask et Spyne, servant les données EgaPro depuis un fichier CSV via des points d'accès SOAP.
 
 Table des matières
+
 Installation
+
 Utilisation
+
 Points d'accès de l'API
+
 Format des données CSV
+
 Contribuer
+
 Licence
+
 Installation
+
 Pour exécuter ce projet, vous devez avoir Python installé. Suivez les étapes ci-dessous pour configurer l'environnement et exécuter l'application :
 
 Clonez le dépôt :
